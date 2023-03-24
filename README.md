@@ -18,7 +18,7 @@ Nesta aplicação tive muitas dificuldades. Tentei fazer o data sync na mão uti
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](github/screenshot.jpeg)
 
 
 ## Rodando localmente back-end
